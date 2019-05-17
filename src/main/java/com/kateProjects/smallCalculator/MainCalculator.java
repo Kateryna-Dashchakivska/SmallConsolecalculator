@@ -34,7 +34,6 @@ public class MainCalculator {
 	}
 	
 	public static int scanOperation(int a, int b) {
-	
 		int res = 0;
 		System.out.print("\nEnter first number: ");
 		int first = scanValidNumber();
